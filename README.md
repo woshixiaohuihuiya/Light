@@ -1,2 +1,4 @@
 # Light
 基于STM32F103系列芯片 点灯程序
+PA15->LED1
+PA14->LED2
